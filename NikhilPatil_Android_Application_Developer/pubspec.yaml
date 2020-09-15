@@ -63,8 +63,6 @@ flutter:
      - images/Group2.png
      - images/Group3.png
      - images/Group4.png
-     - images/destination_map_marker.png
-     - images/driving_pin.png
      - images/sah.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
