@@ -13,8 +13,7 @@ void main() {
     FlutterError.dumpErrorToConsole(details);
     if (kReleaseMode) exit(1);
   };
-  //var MyKey = "AIzaSyATkN9R - Fao1hrJRZ7xrhrkq42dheolupM";
-  //MapView.setApiKey(MyKey);
+
   runApp(new MaterialApp(
     debugShowCheckedModeBanner: false,
     initialRoute: "/",
